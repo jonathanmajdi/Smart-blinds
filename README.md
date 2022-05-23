@@ -2,7 +2,7 @@
 
 This project was made possible by Sinric Pro, the smart home IOT API.
 
-# Parts:
+# Parts List:
 NodeESP8266 <br/>
 Servo motor <br/>
 Custom Adapter - servo to blinds rod <br/>
