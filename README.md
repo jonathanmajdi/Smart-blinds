@@ -21,4 +21,4 @@ Ethernet cable or 3 female breadboard cables <br/>
 **Step 8.** Open the Alexa or Google home APP then add the skill sinric pro, once you have signed in to the sinric pro skill search for device in the Alexa or Google home app and add it to your devices list. <br/>
 
 
-# Screenshots:
+# Diagrams & Screenshots:
