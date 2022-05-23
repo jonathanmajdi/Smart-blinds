@@ -22,4 +22,4 @@ Ethernet cable or 3 female breadboard cables <br/>
 
 
 # Diagrams & Screenshots:
-![This is an image](interface.PNG)
+![sinric pro interface](interface.PNG)
