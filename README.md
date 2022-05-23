@@ -22,6 +22,9 @@ Ethernet cable or 3 female breadboard cables <br/>
 
 
 # Diagrams & Screenshots:
+The screenshot below shows the sinric pro interface where you are able to control the blinds if you do not have Alexa or Google home.
 ![sinric pro interface](interface.PNG)
+
+Wireing diagram:
 ![wireing diagram](diagram.png)
 
