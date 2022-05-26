@@ -3,7 +3,7 @@
 This project was made possible by Sinric Pro, the smart home IOT API.
 
 # Librarys Needed:
-Library name:   ```          Version:        By:
+Library name:             Version:        By:
 - ArduinoJson             -6.19.4         by Benoit Blanchon
 - ArduinoWebSocket        -2.3.5
 - AsyncElegantOTA         -2.2.6          by Ayush Sharma
