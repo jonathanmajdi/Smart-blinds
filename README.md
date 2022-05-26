@@ -2,6 +2,20 @@
 
 This project was made possible by Sinric Pro, the smart home IOT API.
 
+# Librarys Needed:
+- ArduinoJson-6.19.4 by Benoit Blanchon
+- ArduinoWebSocket-2.3.5
+- AsyncElegantOTA-2.2.6 by Ayush Sharma
+- AsyncElegantOTA-master
+- AsyncHTTPRequest_Generic-master-1.8.1 by Khoi Hoang
+- Button-1.0.0 by Michael Adams
+- ESPAsyncTCP-master
+- ESPAsyncWebServer-master
+- Servo-1.1.8 by Arduino
+- SinricPro-2.9.16 by Boris Jaeger
+- WebSockets-2.3.6 by Markus Sattler
+
+
 # Parts List:
 NodeESP8266 <br/>
 Servo motor <br/>
