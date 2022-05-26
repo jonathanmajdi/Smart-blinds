@@ -30,11 +30,11 @@
 #include <Button.h>
 
 
-#define WIFI_SSID         "SSID"    
-#define WIFI_PASS         "PASSWORD"
-#define APP_KEY           "APP-KEY"      // Should look like "de0bxxxx-1x3x-4x3x-ax2x-5dabxxxxxxxx"
-#define APP_SECRET        "674e36a9-d352-43a8-98b7-32b24e09fce9-531aa2bf-993f-477e-8d6f-5bc7ae7dba76"   // Should look like "5f36xxxx-x3x7-4x3x-xexe-e86724a9xxxx-4c4axxxx-3x3x-x5xe-x9x3-333d65xxxxxx"
-#define BLINDS_ID         "62813158a6872f3639285502" //Should look like "62813158a6872f3639285502, this is the test-blinds ID."
+#define WIFI_SSID         "WIFI-SSID"    
+#define WIFI_PASS         "WIFI-PASSWORD"
+#define APP_KEY           "SINRIC-PRO-APP-KEY"      // Should look like "de0bxxxx-1x3x-4x3x-ax2x-5dabxxxxxxxx"
+#define APP_SECRET        "SINRIC-PRO-APP-SECRET"   // Should look like "5f36xxxx-x3x7-4x3x-xexe-e86724a9xxxx-4c4axxxx-3x3x-x5xe-x9x3-333d65xxxxxx"
+#define BLINDS_ID         "SINRIC-PRO-DEVICE-ID" //Should look like "62813158a6872f3639285502, this is the test-blinds ID."
 #define BAUD_RATE         9600                // Change baudrate to your need
 
 
@@ -391,7 +391,6 @@ bool onRangeValue(const String &deviceId, int &position) {
      myservo.detach();
    }
    
- 
   return true; // request handled properly
 }
 
