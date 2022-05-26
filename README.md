@@ -18,12 +18,12 @@ Library name:             Version:        By:
 
 
 # Parts List:
-NodeESP8266 <br/>
-Servo motor <br/>
-Custom Adapter - servo to blinds rod <br/>
-USB to micro USB cable <br/>
-Push button switch x2 <br/>
-Ethernet cable or 3 female breadboard cables <br/>
+- NodeESP8266 <br/>
+- Servo motor <br/>
+- Custom Adapter - servo to blinds rod <br/>
+- USB to micro USB cable <br/>
+- Push button switch x2 <br/>
+- Ethernet cable or 3 female breadboard cables <br/>
 
 # The build:
 **Step 1.** Create a sinric pro account then add a new device. <br/>
