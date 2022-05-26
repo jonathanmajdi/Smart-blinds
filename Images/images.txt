@@ -1,0 +1,1 @@
+Where the images are kept for the readme.txt file.
