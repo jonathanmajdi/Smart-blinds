@@ -30,9 +30,9 @@
 #include <Button.h>
 
 
-#define WIFI_SSID         "BThub"    
-#define WIFI_PASS         "Jonathan100"
-#define APP_KEY           "35ab659b-2987-45bf-8c17-f3812624d0ec"      // Should look like "de0bxxxx-1x3x-4x3x-ax2x-5dabxxxxxxxx"
+#define WIFI_SSID         "SSID"    
+#define WIFI_PASS         "PASSWORD"
+#define APP_KEY           "APP-KEY"      // Should look like "de0bxxxx-1x3x-4x3x-ax2x-5dabxxxxxxxx"
 #define APP_SECRET        "674e36a9-d352-43a8-98b7-32b24e09fce9-531aa2bf-993f-477e-8d6f-5bc7ae7dba76"   // Should look like "5f36xxxx-x3x7-4x3x-xexe-e86724a9xxxx-4c4axxxx-3x3x-x5xe-x9x3-333d65xxxxxx"
 #define BLINDS_ID         "62813158a6872f3639285502" //Should look like "62813158a6872f3639285502, this is the test-blinds ID."
 #define BAUD_RATE         9600                // Change baudrate to your need
