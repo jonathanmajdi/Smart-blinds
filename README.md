@@ -26,7 +26,7 @@ Library name:             Version:        By:
 - 3 female breadboard cables or an ethernet cable can be used <br/>
 
 # The build:
-**Step 1.** Create a sinric pro account then add a new device. <br/>
+**Step 1.** Create a ![sinric pro](https://sinric.pro/) account then add a new device. <br/>
 **Step 2.** Edit the arduino code in the arduino IDE software, the sections that will need to be edited are WIFI username and password, Sinric pro app key, Sinric pro app secret, and the device ID. <br/>
 **Step 3.** Plug in the ESP8266 with the USB cable to your computer and upload the code to the ESP8266 from the arduino IDE. <br/>
 **Step 4.** Find a place to attach the servo motor to the blinds, remember to connect the adapter to the servo motor before you attach the motor to the blinds rod located at the top of the blinds. <br/>
