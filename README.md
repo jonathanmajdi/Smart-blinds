@@ -23,7 +23,7 @@ Library name:             Version:        By:
 - Custom Adapter - servo to blinds rod <br/>
 - USB to micro USB cable <br/>
 - Push button switch x2 <br/>
-- Ethernet cable or 3 female breadboard cables <br/>
+- 3 female breadboard cables or an ethernet cable can be used <br/>
 
 # The build:
 **Step 1.** Create a sinric pro account then add a new device. <br/>
